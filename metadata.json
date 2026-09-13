@@ -1,0 +1,7 @@
+{
+  "name": "APK Installer",
+  "description": "High-performance APK installer, package analyzer, web app dashboard, and Wi-Fi sideload server for Android",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
